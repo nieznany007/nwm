@@ -1,0 +1,27 @@
+=================== Welcome to FlipperOne ===================
+Git:          devd21ab22 systemsleep Tell the MCU about suspend under dash
+Board:        dummy-virt
+CPU Serial:   4dd28e59d92f4f3dbf437313cac5ea8b
+Memory:       1.9 GB
+Build ID:     1328
+Profile:      @Desktop
+Default credentials: user / user
+=============================================================
+1103 /usr/bin/kwin_x11
+1205 /usr/bin/ksmserver
+1368 bash -c pgrep -a -f "ksplashqml|plasmashell|kwin_x11|ksmserver"; for p in $(pgrep -x ksplashqml); do tr "\0" "\n" < /proc/$p/environ | grep -E "^(QT_QUICK_BACKEND|LIBGL_ALWAYS_SOFTWARE|GALLIUM_DRIVER|DISPLAY)="; done; journalctl --user -b -n 15 --no-pager
+Nov 08 11:56:17 linuxdummy-virt-4dd28e sudo[1275]: pam_unix(sudo:session): session closed for user root
+Nov 08 11:56:17 linuxdummy-virt-4dd28e systemd[522]: Started app-xembedsniproxy@8e9c3869d52149e5b7f4448dcac42d4e.service - XembedSniProxy.
+Nov 08 11:56:18 linuxdummy-virt-4dd28e sudo[1274]:     user : PWD=/home/user ; USER=root ; COMMAND=/usr/bin/systemctl restart flipctl
+Nov 08 11:56:18 linuxdummy-virt-4dd28e sudo[1274]: pam_unix(sudo:session): session opened for user root(uid=0) by user(uid=1000)
+Nov 08 11:56:19 linuxdummy-virt-4dd28e sudo[594]: pam_unix(sudo:session): session closed for user root
+Nov 08 11:56:19 linuxdummy-virt-4dd28e (sd-pam)[571]: pam_unix(login:session): session closed for user user
+Nov 08 11:56:25 linuxdummy-virt-4dd28e (sd-pam[1318]: pam_unix(login:session): session closed for user user
+Nov 08 11:56:30 linuxdummy-virt-4dd28e (sd-pam[1344]: pam_unix(login:session): session closed for user user
+Nov 08 11:56:31 linuxdummy-virt-4dd28e sudo[1274]: pam_unix(sudo:session): session closed for user root
+Nov 08 11:56:32 linuxdummy-virt-4dd28e kaccess[1287]: Xlib XKB extension major= 1  minor= 0
+Nov 08 11:56:32 linuxdummy-virt-4dd28e sshd-session[1272]: Received disconnect from 10.0.2.2 port 37320:11: disconnected by user
+Nov 08 11:56:32 linuxdummy-virt-4dd28e sshd-session[1272]: Disconnected from user user 10.0.2.2 port 37320
+Nov 08 11:56:35 linuxdummy-virt-4dd28e flipctl[1359]: remote view    http://0.0.0.0:8899/
+Nov 08 11:56:36 linuxdummy-virt-4dd28e sudo[1384]:     user : PWD=/usr/share/flipctl ; USER=root ; COMMAND=/usr/bin/findmnt -no FSROOT /
+Nov 08 11:56:37 linuxdummy-virt-4dd28e sudo[1384]: pam_unix(sudo:session): session opened for user root(uid=0) by user(uid=1000)

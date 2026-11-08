@@ -1,0 +1,23 @@
+/ /@Desktop
+/home /@home
+/boot /boot
+/var/log /@var-log
+/var/cache /@var-cache
+  UNIT LOAD ACTIVE SUB DESCRIPTION
+
+0 loaded units listed.
+CONFIG_OWNER=1000
+APP_FILES=20
+KWIN=install ok installed
+2026 /usr/bin/plasmashell
+1483 /usr/bin/kwin_x11
+=================== Welcome to FlipperOne ===================
+Git:          devd21ab22 systemsleep Tell the MCU about suspend under dash
+Board:        dummy-virt
+CPU Serial:   4dd28e59d92f4f3dbf437313cac5ea8b
+Memory:       1.9 GB
+Build ID:     1328
+Profile:      @Desktop
+Default credentials: user / user
+=============================================================
+ok starting Hello World

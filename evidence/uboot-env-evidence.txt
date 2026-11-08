@@ -1,0 +1,18 @@
+Test: QEMU virt ARM64, U-Boot 2025.01-3+deb13u1.
+Writable 64 MiB second pflash image.
+
+First process:
+=> setenv qemu_env_test persisted
+=> saveenv
+Saving Environment to Flash... Un-Protected 2 sectors
+Erasing Flash... done
+Writing to Flash... done
+Protected 2 sectors
+OK
+
+QEMU exited. A new QEMU process opened the same pflash image.
+Loading Environment from Flash... OK
+=> printenv qemu_env_test
+qemu_env_test=persisted
+
+Result: PASS, environment survives complete emulator process restart.

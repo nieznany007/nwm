@@ -1,0 +1,17 @@
+/ /@Minimal
+/home /@home
+/boot /boot
+/var/log /@var-log
+/var/cache /@var-cache
+  UNIT LOAD ACTIVE SUB DESCRIPTION
+
+0 loaded units listed.
+=================== Welcome to FlipperOne ===================
+Git:          devd21ab22 systemsleep Tell the MCU about suspend under dash
+Board:        dummy-virt
+CPU Serial:   5ee2437d7c3c4ed38081189845f36e06
+Memory:       1.9 GB
+Build ID:     1328
+Profile:      @Minimal
+Default credentials: user / user
+=============================================================

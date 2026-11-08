@@ -1,0 +1,8 @@
+data/
+*.qcow2
+*.img
+*.zst
+*.part
+*.partial
+assets/
+tools/

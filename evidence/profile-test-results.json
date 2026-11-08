@@ -1,0 +1,23 @@
+[
+  {
+    "profile": "Router",
+    "passed": true,
+    "seconds": 313.8,
+    "error": null,
+    "zero_failed_units": true
+  },
+  {
+    "profile": "No-Graphics",
+    "passed": true,
+    "seconds": 178.1,
+    "error": null,
+    "zero_failed_units": true
+  },
+  {
+    "profile": "TV-Media-Box",
+    "passed": true,
+    "seconds": 305.1,
+    "error": null,
+    "zero_failed_units": false
+  }
+]
