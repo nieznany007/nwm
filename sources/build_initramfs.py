@@ -34,7 +34,7 @@ def add(name):
     for dependency in deps[name]:
         add(dependency)
     selected.append(name)
-names = ['virtio_pci', 'virtio_mmio', 'virtio_blk', 'crc32c_generic', 'crc32c-arm64', 'btrfs', 'virtio_net', 'virtio-gpu', 'virtio_input', 'virtio-rng', 'virtio_balloon', 'fuse', '9p', '9pnet_virtio', 'ipv6', 'tun', 'loop', 'usbhid', 'xhci-pci', 'virtio_snd']
+names = ['virtio_pci', 'virtio_mmio', 'virtio_blk', 'crc32c_generic', 'crc32c-arm64', 'btrfs', 'virtio_net', 'virtio-gpu', 'virtio_input', 'evdev', 'virtio-rng', 'virtio_balloon', 'fuse', '9p', '9pnet_virtio', 'ipv6', 'tun', 'loop', 'usbhid', 'xhci-pci', 'virtio_snd']
 names += ['configfs', 'autofs4', 'binfmt_misc', 'dm_mod', 'rfkill', 'cfg80211', 'mac80211', 'af_packet', 'bridge', '8021q', 'veth', 'overlay', 'efivarfs', 'vfat', 'nls_cp437', 'nls_ascii', 'nls_iso8859-1', 'nls_utf8']
 for name in names:
     matches = [p for p in deps if Path(p).name.split('.ko')[0].replace('-', '_') == name.replace('-', '_')]

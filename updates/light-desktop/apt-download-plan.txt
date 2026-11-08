@@ -1,0 +1,71 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  fonts-urw-base35 libdbus-glib-1-2 libexif12 libfm-data libfm-extra4t64
+  libfm-gtk-data libfm-gtk3-4t64 libfm4t64 libgs-common libgs10 libgs10-common
+  libheif-plugin-dav1d libheif-plugin-libde265 libheif1 libid3tag0 libijs-0.35
+  libimlib2t64 libjbig2dec0 libmenu-cache-bin libmenu-cache3 libobrender32v5
+  libobt2v5 libpaper2 libspectre1 libstartup-notification0 libutempter0
+  lxmenu-data poppler-data xbitmaps xfonts-encodings xfonts-utils
+Suggested packages:
+  fonts-freefont-otf | fonts-freefont-ttf fonts-texgyre libfm-tools
+  nautilus-actions libheif-plugin-ffmpegdec libheif-plugin-jpegdec
+  libheif-plugin-jpegenc libheif-plugin-j2kdec libheif-plugin-j2kenc
+  libheif-plugin-kvazaar libheif-plugin-rav1e libheif-plugin-svtenc
+  fonts-dejavu libxml2-dev openbox-gnome-session openbox-kde-session
+  poppler-utils ghostscript fonts-japanese-mincho | fonts-ipafont-mincho
+  fonts-japanese-gothic | fonts-ipafont-gothic fonts-arphic-ukai
+  fonts-arphic-uming fonts-nanum xfonts-cyrillic
+Recommended packages:
+  eject libfm-modules fonts-droid-fallback libheif-plugin-x265
+  libheif-plugin-aomenc libpaper-utils obconf | obconf-qt scrot gvfs-backends
+  gvfs-fuse lxde-icon-theme | gnome-icon-theme | oxygen-icon-theme
+  | tango-icon-theme luit | x11-utils
+The following NEW packages will be installed:
+  fonts-urw-base35 libdbus-glib-1-2 libexif12 libfm-data libfm-extra4t64
+  libfm-gtk-data libfm-gtk3-4t64 libfm4t64 libgs-common libgs10 libgs10-common
+  libheif-plugin-dav1d libheif-plugin-libde265 libheif1 libid3tag0 libijs-0.35
+  libimlib2t64 libjbig2dec0 libmenu-cache-bin libmenu-cache3 libobrender32v5
+  libobt2v5 libpaper2 libspectre1 libstartup-notification0 libutempter0
+  lxmenu-data openbox pcmanfm poppler-data tint2 xbitmaps xfonts-encodings
+  xfonts-utils xterm
+0 upgraded, 35 newly installed, 0 to remove and 0 not upgraded.
+Need to get 20.3 MB of archives.
+After this operation, 76.3 MB of additional disk space will be used.
+'https://deb.debian.org/debian/pool/main/p/poppler-data/poppler-data_0.4.12-1_all.deb' poppler-data_0.4.12-1_all.deb 1601364 MD5Sum:a5fd10cd52cda71e96f0c08034e87e1d
+'https://deb.debian.org/debian/pool/main/x/xfonts-encodings/xfonts-encodings_1.0.4-2.2_all.deb' xfonts-encodings_1%3a1.0.4-2.2_all.deb 577104 MD5Sum:a6b7f3c5d55ef0155e8308e50e67fd4d
+'https://deb.debian.org/debian/pool/main/x/xfonts-utils/xfonts-utils_7.7%2b7_arm64.deb' xfonts-utils_1%3a7.7+7_arm64.deb 89304 MD5Sum:b572d6c0f3a59b08c718ccbaaa24859d
+'https://deb.debian.org/debian/pool/main/f/fonts-urw-base35/fonts-urw-base35_20200910-8_all.deb' fonts-urw-base35_20200910-8_all.deb 10802992 MD5Sum:daebd850a2346d33d2a6eae8af3b7953
+'https://deb.debian.org/debian/pool/main/d/dbus-glib/libdbus-glib-1-2_0.114-1_arm64.deb' libdbus-glib-1-2_0.114-1_arm64.deb 58040 MD5Sum:b4822a5c527561d7738c2110a0e1c3fe
+'https://deb.debian.org/debian/pool/main/libe/libexif/libexif12_0.6.25-1%2bdeb13u1_arm64.deb' libexif12_0.6.25-1+deb13u1_arm64.deb 417336 MD5Sum:25de0f9e98459761efcc121fa86af123
+'https://deb.debian.org/debian/pool/main/libf/libfm/libfm-data_1.4.0-2_all.deb' libfm-data_1.4.0-2_all.deb 251332 MD5Sum:7d2c798b2ed43ebe9527de431f63e6d2
+'https://deb.debian.org/debian/pool/main/libf/libfm/libfm-extra4t64_1.4.0-2_arm64.deb' libfm-extra4t64_1.4.0-2_arm64.deb 27460 MD5Sum:1d400d469635c1c4b002c5e40629b8b3
+'https://deb.debian.org/debian/pool/main/libf/libfm/libfm-gtk-data_1.4.0-2_all.deb' libfm-gtk-data_1.4.0-2_all.deb 30320 MD5Sum:bd1fecdcab4ece17e92aae346ce8ef1e
+'https://deb.debian.org/debian/pool/main/m/menu-cache/libmenu-cache-bin_1.1.1-1_arm64.deb' libmenu-cache-bin_1.1.1-1_arm64.deb 30940 MD5Sum:c115234a3ee303a2d337448f24dc6d79
+'https://deb.debian.org/debian/pool/main/m/menu-cache/libmenu-cache3_1.1.1-1_arm64.deb' libmenu-cache3_1.1.1-1_arm64.deb 18196 MD5Sum:a0b136276d4fe014e4c5b7a424efe87d
+'https://deb.debian.org/debian/pool/main/l/lxmenu-data/lxmenu-data_0.1.6-3_all.deb' lxmenu-data_0.1.6-3_all.deb 20324 MD5Sum:0906096fbf863c3854c3527d3ac310c5
+'https://deb.debian.org/debian/pool/main/libf/libfm/libfm4t64_1.4.0-2_arm64.deb' libfm4t64_1.4.0-2_arm64.deb 124220 MD5Sum:6d6b25caf77d8bf921e696e87561b44a
+'https://deb.debian.org/debian/pool/main/libf/libfm/libfm-gtk3-4t64_1.4.0-2_arm64.deb' libfm-gtk3-4t64_1.4.0-2_arm64.deb 149792 MD5Sum:3f08ed303879fd058907ba6c888200ee
+'https://deb.debian.org/debian-security/pool/updates/main/g/ghostscript/libgs-common_10.05.1%7edfsg-1%2bdeb13u3_all.deb' libgs-common_10.05.1~dfsg-1+deb13u3_all.deb 148352 
+'https://deb.debian.org/debian-security/pool/updates/main/g/ghostscript/libgs10-common_10.05.1%7edfsg-1%2bdeb13u3_all.deb' libgs10-common_10.05.1~dfsg-1+deb13u3_all.deb 479360 
+'https://deb.debian.org/debian/pool/main/i/ijs/libijs-0.35_0.35-15.2_arm64.deb' libijs-0.35_0.35-15.2_arm64.deb 14564 MD5Sum:ca173aab56ee2706d72e48c11f9324a4
+'https://deb.debian.org/debian-security/pool/updates/main/j/jbig2dec/libjbig2dec0_0.20-1%2bdeb13u1_arm64.deb' libjbig2dec0_0.20-1+deb13u1_arm64.deb 59880 
+'https://deb.debian.org/debian/pool/main/libp/libpaper/libpaper2_2.2.5-0.3%2bb2_arm64.deb' libpaper2_2.2.5-0.3+b2_arm64.deb 16640 MD5Sum:538cd5706e1dc373a46c04a649bb27d0
+'https://deb.debian.org/debian-security/pool/updates/main/g/ghostscript/libgs10_10.05.1%7edfsg-1%2bdeb13u3_arm64.deb' libgs10_10.05.1~dfsg-1+deb13u3_arm64.deb 2357324 
+'https://deb.debian.org/debian-security/pool/updates/main/libh/libheif/libheif-plugin-libde265_1.23.6-2%7edeb13u1_arm64.deb' libheif-plugin-libde265_1.23.6-2~deb13u1_arm64.deb 20144 
+'https://deb.debian.org/debian-security/pool/updates/main/libh/libheif/libheif1_1.23.6-2%7edeb13u1_arm64.deb' libheif1_1.23.6-2~deb13u1_arm64.deb 710288 
+'https://deb.debian.org/debian-security/pool/updates/main/libh/libheif/libheif-plugin-dav1d_1.23.6-2%7edeb13u1_arm64.deb' libheif-plugin-dav1d_1.23.6-2~deb13u1_arm64.deb 22124 
+'https://deb.debian.org/debian/pool/main/libi/libid3tag/libid3tag0_0.16.3-1_arm64.deb' libid3tag0_0.16.3-1_arm64.deb 33240 MD5Sum:067d68ce513a0cc94bd6c2d98073c3f8
+'https://deb.debian.org/debian/pool/main/libs/libspectre/libspectre1_0.2.12-1%2bb2_arm64.deb' libspectre1_0.2.12-1+b2_arm64.deb 48668 MD5Sum:a4169a71e2d97fa907e9818d6b0f568b
+'https://deb.debian.org/debian/pool/main/i/imlib2/libimlib2t64_1.12.4-2_arm64.deb' libimlib2t64_1.12.4-2_arm64.deb 200876 MD5Sum:2d840fd25b9649960455df13cfe74cde
+'https://deb.debian.org/debian/pool/main/o/openbox/libobt2v5_3.6.1-12%2bb2_arm64.deb' libobt2v5_3.6.1-12+b2_arm64.deb 54120 MD5Sum:550c6700644e032422f9401ece69663b
+'https://deb.debian.org/debian/pool/main/o/openbox/libobrender32v5_3.6.1-12%2bb2_arm64.deb' libobrender32v5_3.6.1-12+b2_arm64.deb 61392 MD5Sum:2efdd77d43152957526cc38ded1d9a15
+'https://deb.debian.org/debian/pool/main/s/startup-notification/libstartup-notification0_0.12-8_arm64.deb' libstartup-notification0_0.12-8_arm64.deb 20636 MD5Sum:0cef730a46aa54a829c4e88b529f118e
+'https://deb.debian.org/debian/pool/main/libu/libutempter/libutempter0_1.2.1-4_arm64.deb' libutempter0_1.2.1-4_arm64.deb 9216 MD5Sum:bc2beac1b331c56cafd9f0496eff167b
+'https://deb.debian.org/debian/pool/main/o/openbox/openbox_3.6.1-12%2bb2_arm64.deb' openbox_3.6.1-12+b2_arm64.deb 286272 MD5Sum:b952b7d200be754d474f5d4ecbb393c2
+'https://deb.debian.org/debian/pool/main/p/pcmanfm/pcmanfm_1.4.0-1_arm64.deb' pcmanfm_1.4.0-1_arm64.deb 278604 MD5Sum:577c54bea0d6b06b81050e5b9bb82902
+'https://deb.debian.org/debian/pool/main/t/tint2/tint2_17.0.1-1.2_arm64.deb' tint2_17.0.1-1.2_arm64.deb 378884 MD5Sum:ab3b25933bca5ab8f4d10415e9aa999c
+'https://deb.debian.org/debian/pool/main/x/xbitmaps/xbitmaps_1.1.1-2.2_all.deb' xbitmaps_1.1.1-2.2_all.deb 25096 MD5Sum:5c1738174b07f221b91f95b1ad27739b
+'https://deb.debian.org/debian/pool/main/x/xterm/xterm_398-1_arm64.deb' xterm_398-1_arm64.deb 858228 MD5Sum:38c4f364f26d968f2efdffee659384e6
+W: Unable to read /etc/apt/-/ - DirectoryExists (2: No such file or directory)

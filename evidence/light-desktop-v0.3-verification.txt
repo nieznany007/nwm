@@ -1,0 +1,25 @@
+=== LIGHT SESSION ===
+light
+/@Desktop
+969 openbox --config-file /etc/xdg/flipper-light/rc.xml
+1047 tint2 -c /etc/xdg/flipper-light/tint2rc
+evdev                  24576  3
+crw-rw---- 1 root input 13, 64 Nov  8 12:52 /dev/input/event0
+crw-rw---- 1 root input 13, 65 Nov  8 12:52 /dev/input/event1
+               total        used        free      shared  buff/cache   available
+Mem:            1972         241        1386           9         423        1731
+Swap:              0           0           0
+  UNIT LOAD ACTIVE SUB DESCRIPTION
+
+0 loaded units listed.
+XTERM_PID=1164
+PCMANFM_PID=1165
+=================== Welcome to FlipperOne ===================
+Git:          devd21ab22 systemsleep Tell the MCU about suspend under dash
+Board:        dummy-virt
+CPU Serial:   4dd28e59d92f4f3dbf437313cac5ea8b
+Memory:       1.9 GB
+Build ID:     1328
+Profile:      @Desktop
+Default credentials: user / user
+=============================================================
