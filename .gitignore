@@ -6,3 +6,5 @@ data/
 *.partial
 assets/
 tools/
+ready/
+flipper-one-windows-*.zip
